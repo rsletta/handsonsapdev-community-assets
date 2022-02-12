@@ -1,2 +1,2 @@
-# handsonsapdev-community-assets
-Create your own Hands-on SAP Dev merch with these assets
+# Hands-on SAP Dev Community Assets
+Create your own Hands-on SAP Dev merch with these assets. This repository is maintained by me([Ronnie](https://twitter.com/rsletta)), and contains my source assets for "merch" I have created. Hands-on SAP Dev is the brainchild of the wonderful [DJ Adams](https://twitter.com/qmacro), and is a live stream YouTube show on the [SAP Developers channel](https://www.youtube.com/user/sapdevs). We encourage you to use these assets, and spread the word among fellow nörds. 🤓
